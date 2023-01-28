@@ -1,2 +1,2 @@
-# Analyzing-Screen-Time
-This project it's more related with data analysis instead of data science either using machine learning models
+# Credit Risk
+This project has the purpose to use KMeans algorithm in order to find out classification of customers
